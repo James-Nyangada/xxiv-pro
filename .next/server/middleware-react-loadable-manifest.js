@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"_app.js -> ../src/components/CustomCursor":{"id":"_app.js -> ../src/components/CustomCursor","files":["static/chunks/src_components_CustomCursor_js.js"]}}
