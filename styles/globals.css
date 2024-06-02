@@ -86,26 +86,5 @@ body {
 
   transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
 }
-:root {
-  --carousel-transition-duration: 250ms;
-  --carousel-transition-ease: ease-out;
-  --carousel-bg-color-rgb: 0, 0, 0;
-  --carousel-shadow-color-rgb: 128, 128, 128;
-  --carousel-item-width: 11.5rem;
-  --carousel-item-height: 17.5rem;
-  --carousel-item-hover-effect: 1.075;
-  --carousel-item-reflection-blur: 0.25rem;
-  --carousel-item-empty-color-rgb: 255, 255, 255;
-  --carousel-item-glow-color-rgb: 255, 255, 255;
-  --carousel-item-glow-size: 5rem;
-  --carousel-diameter: 50rem;
-  --carousel-3d-perspective: 1000px;
-  --carousel-3d-perspective-origin: 50% 20%;
-  --carousel-control-button-width: 1.25rem;
-  --carousel-control-button-height: 4rem;
-  --carousel-control-color-rgb: 255, 255, 255;
-  --carousel-animation-duration: 25s;
-  --carousel-animation-play-state: running;
-  --carousel-direction-animation-play-state: paused;
-}
+
 

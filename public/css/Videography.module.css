@@ -3,6 +3,22 @@
     height: 100vh;
     
 }
+.heading{
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  margin-top: 5px;
+
+}
+.subHeading{
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  margin-top: 5px;
+
+}
 
 
 .horizontalScrollWrapper{
@@ -18,7 +34,7 @@
   height: 100vw;
   perspective: 1px;
   transform-style: preserve-3d;
-  padding-bottom: 10rem;
+  padding-bottom: 30px;
   -webkit-overflow-scrolling: touch; /* Enables smooth scrolling on iOS */
 }
 .horizontalScrollWrapper::-webkit-scrollbar {
@@ -77,4 +93,8 @@
   transition: .5s;
   vertical-align: top;
   filter: saturate(40%) sepia(30%) hue-rotate(5deg);
+}
+
+@media (max-width: 600px) {
+ 
 }

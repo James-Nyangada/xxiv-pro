@@ -9,8 +9,9 @@ const EventPics = () => {
 
   return (
     <Fragment>
-      <div className={styles.heading}>Events</div>
-      <p>Take a look at the most interesting events</p>
+      <div className={styles.heading}>Event pictures</div>
+      <p className={styles.subHeading}>Take a look at the most interesting events</p>
+      <p className={styles.subHeading}>NB: Click on Image to view</p>
       <div className={styles.body}>
         <img className={styles.img} src="assets/events/event-1.jpg"/>
         <img className={`${styles.img2}` } src="assets/events/event-2.jpg"/>

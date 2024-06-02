@@ -9,6 +9,9 @@ const BirthdayPics = () => {
   return (
     <Fragment>
       <div className={styles.external}>
+        <div className={styles.heading}>Birthday Pictures</div>
+        <p className={styles.subHeading}>Take a look at the most interesting birthday pictures</p>
+        <p className={styles.subHeading}>NB: Scroll horizonatly and Feel the album</p>
           <div className={styles.horizontalScrollWrapper}>
               <div className={`${styles.imgWrapper} ${styles.slower}`}>
                 <a target="_blank" rel="noopener">

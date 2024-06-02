@@ -30,10 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/birthday-pics": [
+    "/portrait-pics": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/birthday-pics.js"
+      "static/chunks/pages/portrait-pics.js"
     ]
   },
   "ampFirstPages": []
