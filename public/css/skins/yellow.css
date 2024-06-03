@@ -48,3 +48,6 @@ header .header-inner .menu ul li span:before,
     border: 2px dotted #ffb400;
     background-color: rgba(255, 179, 0, 0.2);
 }
+.heading{
+    color: #ffb400;
+}

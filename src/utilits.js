@@ -10,7 +10,7 @@ export const jqueryFuntion = () => {
     var preloader = $("#preloader");
     setTimeout(function () {
       preloader.addClass("preloaded");
-    }, 800);
+    }, 1);
     if ($(window).width() > 1024) {
       setTimeout(function () {
         $(".header-inner").addClass("animated fadeInDown");

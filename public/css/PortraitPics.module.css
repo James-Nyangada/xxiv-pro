@@ -13,6 +13,23 @@
     height: auto;
     width: auto;
 }
+.heading{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 1px;
+  
+  }
+  .subHeading{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    margin-top: 1px;
+  
+  }
 .img:hover{
     --_i: 10%;
     filter: grayscale(0);    --_i: 10%;

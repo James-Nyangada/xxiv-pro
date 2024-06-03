@@ -10,8 +10,10 @@ const PortraitPics = () => {
     <Fragment>
         <div className={styles.heading}>
             <h1>Portraits</h1>
-            <h6>This is just a sample of what I can do</h6>
         </div>
+        <p className={styles.subHeading}>
+          Scroll to reveal cool animation
+        </p>
       <div className={styles.body}>
         
         
